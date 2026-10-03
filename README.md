@@ -22,7 +22,7 @@ Cada laboratorio está diseñado para integrar los aprendizajes del capítulo co
 - **Descripción:** Diseñar, planificar y validar una solución de IA mediante la definición de su arquitectura, requisitos verificables, backlog priorizado, roadmap, experimentos, métricas y mecanismos de mejora continua.
 - ⏱️ **Duración estimada:** 45 min
 
-### [Práctica 3: Gestión y evolución de una iniciativa de Inteligencia Artificial](Capitulo03/README.md)
+### [Laboratorio 3: Gestión y evolución de una iniciativa de Inteligencia Artificial](Capitulo03/README.md)
 
 - **Descripción:** Gestionar la operación y evolución de una iniciativa de IA mediante la alineación de stakeholders, el monitoreo y control de la solución, la definición del equipo, los resultados y métricas, y el uso de evidencia para decidir cómo mejorar, adaptar o escalar la iniciativa.
 - ⏱️ **Duración estimada:** 45 min
